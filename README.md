@@ -1,2 +1,14 @@
-# Trabalho-de-conclus-o-PDF
+# Trabalho de conclusão de curso - PDF
 DESENVOLVIMENTO OPEN-SOURCE PARA A INTERNET DAS COISAS (ARQUITETURAS PARA INTERFACES WEB E MÓVEL)
+
+Resumo:
+
+A IoT (Internet das Coisas) é uma tendência tecnológica atual na qual tudo pode estar conectado na Internet, desde interruptores de luz, torradeiras, ou qualquer outro objeto. Essa tecnologia pretende mudar a vida das pessoas, suas casas, cidades e até a indústria. A Internet das coisas é vista como um componente fundamental para a 4ª revolução industrial. Apesar das empresas privadas desenvolverem soluções para esta tecnologia, ela é dominada e impulsionada por tecnologias open-source. Como exemplo dessas tecnologias existem, na parte de hardware, o Arduino, o Raspberry Pi e o NodeMcu, que são placas de baixo custo que permitem a implementação da computação embarcada com a comunicação necessária para a IoT. Na parte de software existem o protocolo MQTT, o servidor Mosquitto (MQTT broker), a linguagem Lua e o Node-RED. Este trabalho tem como objetivo apresentar essas tecnologias. Pretende mostrar os protocolos usados no processo de comunicação entre os dispositivos. Também vai falar sobre a linguagem utiliza a na criação dos firmwares e da ferramenta de criação da aplicação de controle de IoT web móvel. Mostrará algumas possibilidades de arquiteturas para Internet das coisas e por último será implementado um protótipo (hardware e software) de um sistema de uma Casa inteligente.
+
+Palavras-chaves: Internet das Coisas, Casas inteligentes, MQTT, Mosquitto.
+
+Abstract:
+
+IoT (Internet of Things) is a current technological trend in which everything can be connected in the Internet, from light switches, toasters, or any other object. This technology aims to change the lives of people, their homes, cities, and even the industry. The Internet of things is seen as a fundamental component of the 4th industrial revolution. Although private companies develop solutions for this technology, it is dominated and driven by open-source technologies. As an example of such technologies there are, in the hardware part, Arduino, Raspberry Pi, and NodeMcu, which are low cost boards that allow the implementation of embedded computing with the necessary communication for the IoT. In the software part, there are the MQTT protocol, the Mosquitto server (MQTT broker), the Lua language, and the Node-RED. This work aims to present these technologies. It aims to show the protocols used in the communication process between the devices, and also will talk about the language used in the creation of firmwares, and the creation tool for mobile web IoT control applications. It will show some possibilities for Internet of Things architectures, and finally, a hardware and software prototype of a Smart House will be implemented.
+
+Key words: Internet of Things, Smart Houses, MQTT, Mosquitto.
