@@ -1,4 +1,4 @@
-# Trabalho de conclusão de curso - PDF
+# Trabalho de Conclusão de Curso - PDF
 DESENVOLVIMENTO OPEN-SOURCE PARA A INTERNET DAS COISAS (ARQUITETURAS PARA INTERFACES WEB E MÓVEL)
 
 Resumo:
